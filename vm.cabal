@@ -16,7 +16,7 @@ maintainer:          rcuthill@uvic.ca
 build-type:          Simple
 extra-source-files:  CHANGELOG.md
 
-executable vm
+executable stackvm
   main-is:             Main.hs
   other-modules:       VM
                        Opcodes
